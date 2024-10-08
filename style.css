@@ -1,0 +1,99 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 17;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #3a2a33;
+  box-shadow: 0 0 10px rgba(0, 0, 2, 3);
+}
+
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.header img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+
+.contact {
+  background-color: #a37499;
+  padding: 20px;
+}
+
+.contact ul {
+  list-style-position: inside;
+  margin: 0;
+  padding: 20px;
+}
+
+.contact li {
+  margin-bottom: 10px;
+}
+
+.personal-skills {
+  background-color:#a37499;
+  padding: 20px;
+}
+
+.personal-skills ul {
+  list-style-position: inside;
+  margin: 0;
+  padding: 20px;
+}
+
+.personal-skills li {
+  margin-bottom: 10px;
+}
+
+.career-objective {
+  background-color:#a37499;
+  padding: 20px;
+}
+
+.career-objective p {
+  margin-bottom: 20px;
+}
+
+.education {
+  background-color:#a37499;
+  padding: 20px;
+}
+
+.education ul {
+  list-style-position: inside;
+  margin: 0;
+  padding: 20px;
+}
+
+.education li {
+  margin-bottom: 10px;
+}
+
+.technical-skills {
+  background-color:#a37499;
+  padding: 20px;
+}
+
+.technical-skills ul {
+  list-style-position: inside;
+  margin: 0;
+  padding: 20px;
+}
+
+.technical-skills li {
+  margin-bottom: 10px;
+}
+
